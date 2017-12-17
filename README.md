@@ -1,2 +1,3 @@
-# initack
-Initack Hakkında | About of InitAck
+![](http://initack.net/initacklogo.png)
+
+# README {InitAck}
