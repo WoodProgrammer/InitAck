@@ -26,3 +26,7 @@ saksağan doğanın belalısıdır"``` keskin sözlerden etkilenen ekibimiz kend
 tanımını yaparak logonun saksağan kuşu olması gerektiğine karar vermiştir.
 
 Daha fazla bilgiye ulaşmak için bizlere ulaşabilirsiniz.
+
+Web Adresimiz: [www.initack.net](www.initack.net)
+
+Mail Adresimiz: [info@initack.net](info@initack.net)
